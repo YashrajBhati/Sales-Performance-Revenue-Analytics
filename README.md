@@ -249,7 +249,7 @@ The repository contains the following project resources:
 |---|---|
 | `Sales-Performance-Analytics.ipynb` | Python and SQL analysis notebook |
 | `sales_analysis.db` | SQLite database |
-| `sales_data.csv.csv` | Sales dataset |
+| `sales_data.csv` | Sales dataset |
 | `Sales_Performance_Revenue_Analytics.pbix` | Power BI dashboard |
 | Dashboard screenshots | Visual representation of all four dashboard pages |
 
